@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "date": "2023-04-25 14:45:12.440357",
+        "title": "first note",
+        "text": "something about today"
+    },
+    {
+        "id": 2,
+        "date": "2023-04-25 14:45:33.941502",
+        "title": "second note",
+        "text": "blablablablabla"
+    },
+    {
+        "id": 3,
+        "date": "2023-04-25 14:45:43.809737",
+        "title": "third note",
+        "text": "красивые цветы у различных пунктов меню"
+    }
+]
